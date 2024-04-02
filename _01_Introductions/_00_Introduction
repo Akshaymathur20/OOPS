@@ -1,0 +1,49 @@
+
+/*
+              // Overview of Object Oriented Programming //   
+
+
+    Introductions --> OOPs refers to Object Oriented Programming . OOPs is programming style that relates the programming to real-world entities.OOPs is associated with the concept of class and objects.OOPs is porgramming paradigm where the completer software operates as a bunch of objects talking to each other.
+
+    With the help of OOPs concept like (Encapsulations, Data Abstractions, Polymorphism, Inheritance ) it becomes easier and safe to model the real-world entities into the code or program
+
+
+    ****************************Advantage of Object Oriented Programming*****************************
+
+    1) OOps is fast , easier to excecute.
+    2) OOPs is easier to maintain, modify and debug.
+    3) OOPs provide clear structure for the program
+    4) OOps is very useful in complex level of program
+    5) OOPs provide certain feature like data security, reusability and ensure higher level of accuracy.
+    6) OOps makes it possible to create complete reversable applications with less code and shorter development time.
+
+    etc...................
+
+
+    ********************Structure of Object Oriented Programming**********************
+
+    Class -- A class is building block of OOps. Classes are user defined data type that act as a blueprint for creating individual object, methods and properties
+
+
+    Object -- Object is an instance of class. Each object has unique identity, a behaviour and a state of it.
+
+
+    >>>>>>> A class is a template of object whereas object is an instance of class.
+
+    Methods -- Methos are functions that describe  the behaviour of an object. Usually, programmares use methods for code reusability or keeping functionality, encapsulated for security purpose. 
+
+    Attribute -- Attribute represent the current state of an object. Object will have data stored in the attribute field 
+
+
+    ********************************Feature / Pillar of Object Oriented Programming*************************
+
+    --> Encapsulations
+    --> Data Abstractions
+    --> Polymorphism
+    --> Inheritance
+
+
+
+ */
+
+
